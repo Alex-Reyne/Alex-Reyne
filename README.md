@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **creativereyne@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rvrY8h93EFONuJnC_6eURYJscZSnOp1V/view](https://drive.google.com/file/d/1rvrY8h93EFONuJnC_6eURYJscZSnOp1V/view)
+- 📄 My [resume](https://drive.google.com/file/d/1rvrY8h93EFONuJnC_6eURYJscZSnOp1V/view)
 
 - ⚡ Fun fact **I'm the oldest of 11 siblings.**
 
