@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Reyne</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [Reyne Drops](https://github.com/Alex-Reyne/reyne-drops)
+- 🔭 I’m currently working on [Highlighter Black](https://github.com/Alex-Reyne/reyne-drops)
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
