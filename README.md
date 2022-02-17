@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
-- 💼 My Portfolio: [https://alexreyne.me](https://alexreyne.me)
+- 🎨 My Portfolio: [https://alexreyne.me](https://alexreyne.me)
 
 - 💬 Ask me about **Graphic Design**
 
