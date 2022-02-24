@@ -19,9 +19,13 @@
 
 - ⚡ Fun fact **I'm the oldest of 11 siblings.**
 
-#javascript #react #node #express #nextjs #typescript #html #css #sass #postgresql #firebase #ruby #rubyonrails #cypress #jest #storybook #jquery #ajax #webpack #mocha #chai #illustrator #photoshop #aftereffects #figma
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linktr.ee/alexreyne" target="blank"><img align="center" src="https://www.computerhope.com/jargon/l/linktree.png" alt="creativereyne" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+#javascript #react #node #express #nextjs #typescript #html #css #sass #postgresql #firebase #ruby #rubyonrails #cypress #jest #storybook #jquery #ajax #webpack #mocha #chai #illustrator #photoshop #aftereffects #figma
 </p>
