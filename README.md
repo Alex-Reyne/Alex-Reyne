@@ -3,9 +3,9 @@
 
 ---
 
-- 👨‍💻 I’m currently working on: [Scales](https://github.com/JoeMics/scales)
+- 👨‍💻 I’m currently working on: [Adept Construction](https://github.com/Alex-Reyne/adept-construction)
 
-- 🔭 My most recently Completed Project: [Highlighter Black](https://github.com/Alex-Reyne/highlighter-black)
+- 🔭 My most recently Completed Project: [Scales](https://github.com/JoeMics/scales)
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
