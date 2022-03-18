@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on: [Adept Construction](https://github.com/Alex-Reyne/adept-construction)
 
-- 🔭 My most recently Completed Project: [Scales](https://github.com/JoeMics/scales)
+- 🔭 My most recently Completed Project: [PomodOwO](https://github.com/Alex-Reyne/pomodowo-timer)
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
