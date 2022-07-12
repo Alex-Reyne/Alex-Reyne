@@ -3,7 +3,7 @@
 
 ---
 
-- 👨‍💻 I’m currently working on: [Adept Construction](https://github.com/Alex-Reyne/adept-construction)
+- 👨‍💻 I’m currently working on: [REDACTED](null)
 
 - 🔭 My most recently Completed Project: [PomodOwO](https://github.com/Alex-Reyne/pomodowo-timer)
 
