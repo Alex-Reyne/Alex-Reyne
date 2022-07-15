@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on: [REDACTED](null)
 
-- 🔭 My most recently Completed Project: [PomodOwO](https://github.com/Alex-Reyne/pomodowo-timer)
+- 🔭 My most recently Completed Project: [Reyne Drops](https://github.com/Alex-Reyne/reyne-drops)
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
