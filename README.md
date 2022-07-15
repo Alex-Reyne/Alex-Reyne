@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linktr.ee/alexreyne" target="blank"><img align="center" src="https://www.computerhope.com/jargon/l/linktree.png" alt="creativereyne" height="30" width="40" /></a>
+<a href="https://www.reynedrops.ca/" target="blank"><img align="center" src="https://www.reynedrops.ca/alex-reyne-logo.png" alt="creativereyne" height="30" width="40" /></a>
 </p>
 
 ---
